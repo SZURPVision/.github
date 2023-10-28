@@ -2,7 +2,7 @@
 
 #### 这里是深圳大学RobotPilots战队视觉组织
 #### 所有人都可以在此建立自己的仓库，并分享给队伍成员
-#### 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]
+#### 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&theme=radical" />
 <!--
 
