@@ -14,7 +14,7 @@
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
  
-#### :computer: Programming languages and tools: 
+#### :一些工具，好用，喜欢用，都可以用: 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&theme=radical" />
  
