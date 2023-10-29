@@ -7,7 +7,6 @@
  
  
 <img align="right" alt="img" src="https://github.com/SZURPVision/.github/blob/main/IMG/The_Imitation_Game.jpg" width="40%" height="40%" />
-<img align="right" alt="img" src="https://github.com/SZURPVision/.github/blob/main/IMG/AL.jpg" width="40%" height="40%" />
  
 #### 😄: 一些注意事项: 
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
@@ -30,6 +29,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+<img align="right" alt="img" src="https://github.com/SZURPVision/.github/blob/main/IMG/AL.jpeg" width="40%" height="40%" />
 
 <!--
 
