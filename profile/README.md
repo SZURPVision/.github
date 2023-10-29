@@ -12,7 +12,7 @@
 #### 😄: 一些注意事项: 
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO
-- Business practices on (Nope)[bi4 Group Spain](https://github.com/SZURPVision) 🚀 *Maybe*
+- Business practices on (Nope)[Spin RP](https://github.com/SZURPVision) 🚀 *Maybe*
  
 #### 🥇:一些工具，好用，喜欢用，都可以用: 
 <p>
