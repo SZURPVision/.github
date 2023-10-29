@@ -32,7 +32,7 @@
 </p>
 
 #
-#### 🍺值得一看的组内项目，rebo not fount是因为仅仅对组织队伍内可见，故此不应外传: 
+#### 🍺值得一看的组内仓库，标有rebo not fount的仓库是因为仅仅对组织队伍内可见,不可外部查看，故此不应外传: Drone20230812-lzt
 <table>
   <thead align="center">
     <tr border: none;>
@@ -43,7 +43,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody>
+<tbody>
     <tr>
       <td><a href="https://github.com/SZURPVision/23-XZH-SENTRY"><b>23-XZH-SENTRY</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
@@ -51,7 +51,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+     <tr>
       <td><a href="https://github.com/SZURPVision/EngineerController2023-lzt"><b>23-LZT-EngineerController</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/EngineerController2023-lzt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/EngineerController2023-lzt&labelColor=343b41"/></td>
@@ -64,6 +64,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/Drone20230812-lzt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/Drone20230812-lzt?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/Drone20230812-lzt?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SZURPVision/23-LZS-FILETOOLKIT"><b>23-LZT-Droner</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
