@@ -10,8 +10,8 @@
 #### 😄 一些注意事项: 
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO
-- Business practices on (Nope)[Spin RP](https://github.com/SZURPVision) 🚀 *Maybe*
-- 注意，分清楚什么是开源什么仅队内!!!! 
+- 注意，分清楚什么是开源什么仅队内
+- (Bilibili Web)[Spin RP]([https://github.com/SZURPVision](https://space.bilibili.com/628590740?spm_id_from=333.337.0.0)) 🚀 *更多请关注RobotPlitos公众号或者弹幕网*
 
 #
 #### 🥇一些用来填充画面的，没找到C++是我的错: 
