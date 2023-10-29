@@ -7,7 +7,7 @@
  
  
 <img align="right" alt="img" src="https://github.com/SZURPVision/.github/blob/main/IMG/The_Imitation_Game.jpg" width="40%" height="40%" />
- 
+<img align="right" alt="img" src="https://github.com/SZURPVision/.github/blob/main/IMG/AL.jpg" width="40%" height="40%" />
  
 #### 😄: 一些注意事项: 
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
