@@ -66,7 +66,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/Drone20230812-lzt?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SZURPVision/24-LZS-FILETOOLKIT"><b>23-YZY-DYH-INFANTRY</b></a></td>
+      <td><a href="https://github.com/SZURPVision/23-YZY-DYH-INFANTRY"><b>23-YZY-DYH-INFANTRY</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-YZY-DYH-INFANTRY?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/23-YZY-DYH-INFANTRY?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/23-YZY-DYH-INFANTRY?style=flat-square&labelColor=343b41"/></td>
