@@ -66,11 +66,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/Drone20230812-lzt?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/SZURPVision/23-LZS-FILETOOLKIT"><b>23-LZT-Droner</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/23-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/SZURPVision/23-LZS-FILETOOLKIT"><b>24-LZS-FILETOOLKIT</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
