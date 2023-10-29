@@ -51,6 +51,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/SZURPVision/Engineer20231024-lzt"><b>23-LZT-Engineer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/Engineer20231024-lzt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/Engineer20231024-lzt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/Engineer20231024-lzt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/Engineer20231024-lzt?style=flat-square&labelColor=343b41"/></td>
+    </tr>
      <tr>
       <td><a href="https://github.com/SZURPVision/EngineerController2023-lzt"><b>23-LZT-EngineerController</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/EngineerController2023-lzt?style=flat-square&labelColor=343b41"/></td>
