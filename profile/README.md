@@ -6,12 +6,13 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](shergrove@outlook.com)
  
  
- 
+#
 #### 😄 一些注意事项: 
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO
 - Business practices on (Nope)[Spin RP](https://github.com/SZURPVision) 🚀 *Maybe*
- 
+
+#
 #### 🥇一些用来填充画面的，没找到C++是我的错: 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZhongFuCheng3y&show_icons=true&icon_color=CE1D2D&theme=radical" />
@@ -29,7 +30,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-
+#
 #### 🍺值得一看的组内项目，rebo not fount是因为仅仅对组织队伍内可见，故此不应外传: 
 <table>
   <thead align="center">
