@@ -2,7 +2,7 @@
 
 #### 这里是深圳大学RobotPilots战队视觉组织 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision)
-[![SameGithub](https://github.com/robotpilotsEC)
+[![SameGithub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robotpilotsEC)
 [![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](shergrove@outlook.com)
  
  
