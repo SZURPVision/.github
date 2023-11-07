@@ -45,6 +45,13 @@
     </tr>
   </thead>
 <tbody>
+     <tr>
+      <td><a href="https://github.com/SZURPVision/24-LZJ-Upload_organization"><b>24-LZJ-Upload_organization</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/SZURPVision/23-XZH-SENTRY"><b>23-XZH-SENTRY</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
