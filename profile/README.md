@@ -33,7 +33,7 @@
 </p>
 
 #
-#### 🍺值得一看的组内仓库，标有rebo not found的仓库是因为仅仅对组织队伍内可见，不可外部查看，故此不应外传:
+#### 🍺值得一看的组内仓库，标有repo not found的仓库是因为仅仅对组织队伍内可见，不可外部查看，故此不应外传:
 <table>
   <thead align="center">
     <tr border: none;>
