@@ -87,6 +87,14 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/24-LZS-FILETOOLKIT?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/SZURPVision/24-LZJ-Image_enhancement"><b>24-LZJ-Image_enhancement</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/24-LZJ-Image_enhancement?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/24-LZJ-Image_enhancement?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/24-LZJ-Image_enhancement?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/24-LZJ-Image_enhancement?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        
   </tbody>
 </table>
 <!--
