@@ -10,7 +10,7 @@
 #### 😄 一些注意事项: 
 - 请先建立仓库再拉去到本地，尽量不要先在本地创建，记得写上.gitignore & README.md
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
-- 建库指南详情看本组织[![24-LZJ-Upload_organization](https://img.shields.io/badge/-24-LZJ-Upload_organization-c14438?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/24-LZJ-Upload_organization)
+- 建库指南详情看本组织24-LZJ-Upload_organization[![24-LZJ-Upload_organization](https://img.shields.io/badge/-Org-c14438?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/24-LZJ-Upload_organization)
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO，不一定要此顺序
 - 注意，分清楚什么是开源什么仅队内
 - (Bilibili Web)[🚀RP](https://github.com/SZURPVision) *更多请关注RobotPlitos公众号或者弹幕网*
@@ -46,13 +46,6 @@
     </tr>
   </thead>
 <tbody>
-     <tr>
-      <td><a href="https://github.com/SZURPVision/24-LZJ-Upload_organization"><b>24-LZJ-Upload_organization</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SZURPVision/24-LZJ-Upload_organization?style=flat-square&labelColor=343b41"/></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/SZURPVision/23-XZH-SENTRY"><b>23-XZH-SENTRY</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SZURPVision/23-XZH-SENTRY?style=flat-square&labelColor=343b41"/></td>
