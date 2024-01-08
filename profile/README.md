@@ -13,7 +13,7 @@
 - 建库指南详情看本组织[![24-LZJ-Upload_organization](https://img.shields.io/badge/-Org-c14438?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/24-LZJ-Upload_organization)24-LZJ-Upload_organization
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO，不一定要此顺序
 - 注意，分清楚什么是开源什么仅队内
-- (Bilibili Web)[🚀RP]([https://github.com/SZURPVision](https://space.bilibili.com/628590740?spm_id_from=333.337.search-card.all.click)) *更多请关注RobotPlitos公众号或者弹幕网*
+- (Bilibili Web)[🚀RP](https://space.bilibili.com/628590740?spm_id_from=333.337.search-card.all.click) *更多请关注RobotPlitos公众号或者弹幕网*
 
 #
 #### 🥇一些用来填充画面的，没找到C++是我的错: 
