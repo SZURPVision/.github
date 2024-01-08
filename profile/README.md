@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 #### 这里是深圳大学RobotPilots战队视觉组织 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision)
-[![SameGithub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robotpilotsEC)
+[![视觉](https://img.shields.io/badge/-视觉-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision)
+[![电控](https://img.shields.io/badge/-电控-000?style=flat&logo=Github&logoColor=white)](https://github.com/robotpilotsEC)
 [![Outlook](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](shergrove@outlook.com)
  
  
@@ -10,10 +10,10 @@
 #### 😄 一些注意事项: 
 - 请先建立仓库再拉去到本地，尽量不要先在本地创建，记得写上.gitignore & README.md
 - 所有人都可以在此建立自己的仓库，并分享给队伍成员
-- 建库指南详情看本组织[![24-LZJ-Upload_organization](https://img.shields.io/badge/-Org-c14438?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/24-LZJ-Upload_organization)24-LZJ-Upload_organization
+- 建库指南详情看本组织[![24-LZJ-Upload_organization](https://img.shields.io/badge/24LZJUploadorganization-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/24-LZJ-Upload_organization)
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO，不一定要此顺序
 - 注意，分清楚什么是开源什么仅队内
-- (Bilibili Web)[🚀RP](https://space.bilibili.com/628590740?spm_id_from=333.337.search-card.all.click) *更多请关注RobotPlitos公众号或者弹幕网*
+- [![🚀RP](https://img.shields.io/badge/-BilibiliWeb-000?style=flat&logo=Github&logoColor=white)](https://space.bilibili.com/628590740?spm_id_from=333.337.search-card.all.click) *更多请关注RobotPlitos公众号或者弹幕网*
 
 #
 #### 🥇一些用来填充画面的，没找到C++是我的错: 
