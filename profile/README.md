@@ -14,7 +14,7 @@
 - 建库时，请务必加上[所处赛季 + 姓名 + 简短功能介绍(兵种)]，例如：23-LZS-HERO，不一定要此顺序
 - 注意，分清楚什么是开源什么仅队内
 - [![🚀RP](https://img.shields.io/badge/-BilibiliWeb-000?style=flat&logo=Github&logoColor=white)](https://space.bilibili.com/628590740?spm_id_from=333.337.search-card.all.click) *更多请关注RobotPlitos公众号或者弹幕网*
-- 暂时地，有任何问题都可以在[![issue](https://img.shields.io/badge/issue-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/issue)
+- 暂时地，有任何问题都可以在[![issue](https://img.shields.io/badge/issue-000?style=flat&logo=Github&logoColor=white)](https://github.com/SZURPVision/issue)中提出
 
 #
 #### 🥇一些用来填充画面的，没找到C++是我的错: 
